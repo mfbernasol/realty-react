@@ -38,8 +38,6 @@ const RightArrow = () => {
 export default function ImageScrollbar({ data }) {
   return (
     <ScrollMenu
-      LeftArrow={LeftArrow}
-      RightArrow={RightArrow}
       style={{ overflow: 'hidden' }}
     >
       {data.map((item) => (
