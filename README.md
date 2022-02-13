@@ -1,5 +1,5 @@
 # Realty React
-[View Demo](https://realty-react.vercel.app/)
+[View Live Demo](https://realty-react.vercel.app/)
 
 ![Screen Shot 2022-02-13 at 4 25 30 PM](https://user-images.githubusercontent.com/46685981/153777978-befefdee-88c3-4d2b-b140-ca5be063dd33.png)
 
